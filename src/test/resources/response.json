@@ -1,0 +1,32 @@
+[
+  {
+    "id": "PT-LIS-A01",
+    "name": "1VG10",
+    "x": 0.123456,
+    "y": 1.123456,
+    "licencePlate": "AAAAAA",
+    "range": 29,
+    "batteryLevel": 100,
+    "helmets": 2,
+    "model": "Bike",
+    "resourceImageId": "image_id",
+    "realTimeData": true,
+    "resourceType": "MOPED",
+    "companyZoneId": 1
+  },
+  {
+    "id": "PT-LIS-A02",
+    "name": "2VG20",
+    "x": -1.98765,
+    "y": 0.98765,
+    "licencePlate": "BBBBBB",
+    "range": 8,
+    "batteryLevel": 10,
+    "helmets": 2,
+    "model": "Bike",
+    "resourceImageId": "image_id",
+    "realTimeData": true,
+    "resourceType": "MOPED",
+    "companyZoneId": 2
+  }
+]
